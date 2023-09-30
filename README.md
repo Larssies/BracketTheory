@@ -1,4 +1,4 @@
-# Project Name
+# Bracket Theory
 
 A JavaScript Bracket Usage Performance Comparison
 
