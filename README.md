@@ -1,5 +1,11 @@
-﻿# BracketTheory
-A simple function that says which usage of brackets is faster using JavaScript
+# Project Name
+
+A JavaScript Bracket Usage Performance Comparison
+
+## Overview
+
+This project aims to compare the performance of different ways to define functions in JavaScript using `{}` brackets. We will measure the execution time of two common function declaration styles: traditional function declarations and arrow functions, to determine which is faster.
+
  # How to run?
 - go to **`Terminal`**
 - Press **`New Terminal`**
