@@ -7,6 +7,8 @@ A JavaScript Bracket Usage Performance Comparison
 This project aims to compare the performance of different ways to define functions in JavaScript using `{}` brackets. We will measure the execution time of two common function declaration styles: traditional function declarations and arrow functions, to determine which is faster.
 
  ## How to run?
+_Keep in mind that I am using NodeJS so you need it installed for it to work._
+
 - go to **`Terminal`**
 - Press **`New Terminal`**
 - Type **`node bracket_logic.js`**
