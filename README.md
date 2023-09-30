@@ -1,5 +1,5 @@
 ﻿# BracketTheory
-
+A simple function that says which usage of brackets is faster using JavaScript
  # How to run?
 - go to **`Terminal`**
 - Press **`New Terminal`**
