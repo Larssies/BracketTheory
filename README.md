@@ -2,8 +2,8 @@
 
  # How to run?
 - go to **`Terminal`**
-- Press **New Terminal**
-- Type **node bracket_logic.js**
+- Press **`New Terminal`**
+- Type **`node bracket_logic.js`**
 - Press Enter
 - View the results
 
