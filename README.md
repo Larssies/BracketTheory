@@ -9,7 +9,7 @@ This project aims to compare the performance of different ways to define functio
  ## How to run?
 _Keep in mind that I am using [NodeJS](https://nodejs.org/en) so you need it installed for it to work._
 
-- Fork this project using Visual Studio Code or an IDE (I am using VSCode)
+- Clone this project using Visual Studio Code or an IDE (I am using VSCode)
 - go to **`Terminal`**
 - Press **`New Terminal`**
 - Type **`node bracket_logic.js`**
